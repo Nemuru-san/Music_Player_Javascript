@@ -55,7 +55,7 @@
     }
     
     .musicContainer.play .imgContainer img {
-        /* animation-play-state: running; */
+        animation-play-state: running;
     }
     
     @keyframes rotate {
